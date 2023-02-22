@@ -1,4 +1,4 @@
-package com.dp.learnspringframework;
+package com.dp.learnspringframework.game;
 
 import com.dp.learnspringframework.game.GameRunner;
 import com.dp.learnspringframework.game.MarioGame;
